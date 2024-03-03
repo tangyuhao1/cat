@@ -14,7 +14,7 @@
 
 [TG 群](https://t.me/+uGeB94WVkgJlZjI1)
 
-- 提供资源 测试压缩包 下载，自行上传
+- 提供资源 测试压缩包 下载，自行上传 [资源包下载](https://github.com/tv-player/cat/releases/tag/1.0.0)
 
 - VIP服务：单独部署，程序实时同步，资源稳定可靠，支持上传 github、坚果云（群里私聊）
 
