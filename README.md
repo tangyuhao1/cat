@@ -6,6 +6,8 @@
 
 [猫影视官方下载](https://github.com/catvod/CatVodOpen/releases#assets) 支持 window,ios,android
 
+[ios自签教程](https://omii.top/826.html)
+
 ![1](./img/2.png)
 
 # 资源
