@@ -8,7 +8,8 @@
 
 [猫影视官方下载](https://github.com/catvod/CatVodOpen/releases#assets) 支持 window,ios,android
 
-[ios 爱思助手 自签教程]([https://omii.top/826.html](https://www.i4.cn/news_detail_38195.html))
+[ios 爱思助手 自签教程]([https://omii.top/826.html](https://www.i4.cn/news_detail_38195.html)
+
 [ios自签教程](https://omii.top/826.html)
 
 ![1](./img/2.png)
