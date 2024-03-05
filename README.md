@@ -20,6 +20,4 @@
 
 - 提供资源 测试压缩包 下载，自行上传 [资源包下载](https://github.com/tv-player/cat/releases/tag/1.0.0)
 
-- VIP服务：提供单独部署，程序实时同步，资源稳定可靠，支持上传 github、坚果云、gitee,长久有效
-
-![2](./img/1.png)
+- VIP服务：提供单独部署，程序实时同步，资源稳定可靠，支持上传 github、坚果云、gitee,长久有效 [联系我](https://t.me/yyskkk_bot)
